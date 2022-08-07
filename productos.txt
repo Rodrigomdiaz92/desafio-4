@@ -1,0 +1,20 @@
+[
+  {
+    "titulo": "Escuadra",
+    "precio": 5,
+    "imagen": "link1",
+    "id": 1
+  },
+  {
+    "titulo": "Calculadora",
+    "precio": 6,
+    "imagen": "link2",
+    "id": 2
+  },
+  {
+    "titulo": "Globo Terráqueo",
+    "precio": 7,
+    "imagen": "link3",
+    "id": 3
+  }
+]
