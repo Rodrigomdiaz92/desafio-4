@@ -65,7 +65,7 @@ productosRouter.post('/', async(req,res)=>{
 
 })
 
-//PUT postman
+//PUT 
 
 productosRouter.put('/:id', async(req, res)=>{
     const { id } = req.params;
